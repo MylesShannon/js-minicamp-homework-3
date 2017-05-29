@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Objects
-	* Properties
-	* Methods
-	* for in loop
-	* dot notation vs bracket notation
+  * Like an Array, an Object is a variable that stores other variables. Every data type other than a number, string, or boolean is an Object, including Arrays.
+  * A Property or key is the name given to each of an Object's sub-variables through which to be accessed with.
+  * Methods, or functions, are blocks of code that do work from within an Object, and can return data back to where they were first called.
+  * A `for in loop` is an easier way to iterate over all the properties of an Object.
+  * dot notation and bracket notation are very similar. They both allow for the access of an Object's properties, but bracket notation allows access of an Object's properties with string variables.
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
